@@ -4,7 +4,7 @@
   "description": "CanvasJs\r good for dealing with static data\r https://canvasjs.com/javascript-charts/\r It has examples of codes that you can change",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.10.0"
   },
   "devDependencies": {},
